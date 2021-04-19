@@ -17,7 +17,7 @@ next expression.\
 7. -1000 indicates the end of the last expression (since there is more than one expression in each
 file).
 
-## Example Output:
+## Output:
 ```
 >>> Processing expressions from Expression1.dat
 Number of Expressions: 2
